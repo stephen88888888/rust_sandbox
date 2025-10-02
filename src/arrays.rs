@@ -28,3 +28,4 @@ fn print_array(arr: [i32; 3]) {
         println!("{}", i);
     }
 }
+//wode 
